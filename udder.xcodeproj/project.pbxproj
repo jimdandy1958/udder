@@ -12,6 +12,7 @@
 		040531C021FB806F00A440A4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 040531BE21FB806F00A440A4 /* Main.storyboard */; };
 		040531C221FB807300A440A4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 040531C121FB807300A440A4 /* Assets.xcassets */; };
 		040531C521FB807300A440A4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 040531C321FB807300A440A4 /* LaunchScreen.storyboard */; };
+		040531CD21FB89F800A440A4 /* magnolia.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 040531CC21FB89F800A440A4 /* magnolia.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		040531C121FB807300A440A4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		040531C421FB807300A440A4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		040531C621FB807300A440A4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		040531CC21FB89F800A440A4 /* magnolia.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = magnolia.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				040531BC21FB806F00A440A4 /* ViewController.swift */,
 				040531BE21FB806F00A440A4 /* Main.storyboard */,
 				040531C121FB807300A440A4 /* Assets.xcassets */,
+				040531CC21FB89F800A440A4 /* magnolia.jpg */,
 				040531C321FB807300A440A4 /* LaunchScreen.storyboard */,
 				040531C621FB807300A440A4 /* Info.plist */,
 			);
@@ -123,6 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				040531C521FB807300A440A4 /* LaunchScreen.storyboard in Resources */,
+				040531CD21FB89F800A440A4 /* magnolia.jpg in Resources */,
 				040531C221FB807300A440A4 /* Assets.xcassets in Resources */,
 				040531C021FB806F00A440A4 /* Main.storyboard in Resources */,
 			);
